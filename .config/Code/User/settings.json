@@ -9,5 +9,6 @@
     "extensions.ignoreRecommendations": true,
     "files.associations": {
         "*.xml.dist": "xml"
-    }
+    },
+    "workbench.editor.highlightModifiedTabs": true
 }
