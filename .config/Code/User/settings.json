@@ -10,5 +10,7 @@
     "files.associations": {
         "*.xml.dist": "xml"
     },
-    "workbench.editor.highlightModifiedTabs": true
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.untitled.hint": "hidden",
+    "security.workspace.trust.untrustedFiles": "open"
 }
